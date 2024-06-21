@@ -1,0 +1,17 @@
+.Options {
+  display: flex;
+  column-gap: 5px;
+  margin-bottom: 20px;
+}
+
+.Options button {
+  padding: 10px 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.Options button:hover {
+   background-color: rgb(187, 187, 238);
+}

@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  width: 640px;
+  height: 100%;
+  margin: 0 auto;
+  margin-top: 60px;
+  padding: 10px 30px;
+  background-color: ghostwhite;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
